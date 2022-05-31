@@ -30,5 +30,5 @@ Não há banco de dados. Os dados são carregados de 2 arquivos que contém arra
 
 
 <div align="center">
-  <small>Rodrigo Gonçalves Santana - 2020</small>
+  <small>David Wallace Marques Ferreira - 2021</small>
 </div>

@@ -9,8 +9,8 @@ import PieChartBox from '../../components/PieChartBox';
 import HistoryBox from '../../components/HistoryBox';
 import BarChartBox from '../../components/BarChartBox'
 
-import expenses from '../../repositories/expenses';
-import gains from '../../repositories/gains';
+import expenses from '../../repositories/expenses.ts';
+import gains from '../../repositories/gains.ts';
 import listOfMonths from '../../utils/months';
 
 import happyImg from '../../assets/happy.svg';
